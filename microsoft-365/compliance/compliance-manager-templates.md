@@ -36,7 +36,7 @@ A template is a framework of controls for creating an assessment in Compliance M
 
 ## Template versions: Microsoft and universal
 
-Compliance Manger can be used to assess different types of products. All templates, except the [Microsoft Data Protection Baseline](compliance-manager-assessments.md#data-protection-baseline-default-assessment) default template, come in two versions:
+Compliance Manager can be used to assess different types of products. All templates, except the [Microsoft Data Protection Baseline](compliance-manager-assessments.md#data-protection-baseline-default-assessment) default template, come in two versions:
 
 1. A version that applies to a pre-defined product, such as Microsoft 365, and
 2. A universal version that can be tailored to suit other products.
